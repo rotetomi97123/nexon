@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+.Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+.content {
+  width: 65%;
+  height: 100%;
+  border: 1px solid black;
+  img {
+    width: 100%;
+    object-fit: cover;
+    max-height: 502px;
+  }
+}
+.coathanger {
+  position: relative;
+}
+.sweaterWrapper {
+  width: 100%;
+  padding: 0 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: visible;
+}
+.sweater {
+  width: 130px;
+  height: 130px;
+  overflow: visible;
+  img {
+    width: 100%;
+    object-fit: cover;
+    height: 130px;
+    overflow: visible;
+  }
+}

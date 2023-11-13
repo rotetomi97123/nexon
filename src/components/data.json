@@ -1,0 +1,76 @@
+{
+  "sweaters": [
+    {
+      "id": 1,
+      "price": 250000,
+      "img": "https://i.ibb.co/4sT8xM8/sweater1.png",
+      "smallImg": "https://i.ibb.co/Mp21qWW/sweater-white.png"
+    },
+    {
+      "id": 2,
+      "price": 250000,
+      "img": "https://i.ibb.co/dPsTpgD/sweater2.png",
+      "smallImg": "https://i.ibb.co/p4KFLvf/sweater-darkgreen.png"
+    },
+    {
+      "id": 3,
+      "price": 250000,
+      "img": "https://i.ibb.co/XYZHC35/sweater3.png",
+      "smallImg": "https://i.ibb.co/Mp21qWW/sweater-white.png"
+    },
+    {
+      "id": 4,
+      "price": 250000,
+      "img": "https://i.ibb.co/DYPrP4m/sweater4.png",
+      "smallImg": "https://i.ibb.co/Dpvp4w3/sweater-red.png"
+    },
+    {
+      "id": 5,
+      "price": 250000,
+      "img": "https://i.ibb.co/r5wmb8v/sweater5.png",
+      "smallImg": "https://i.ibb.co/hV0MVk9/sweater-green.png"
+    },
+    {
+      "id": 6,
+      "price": 250000,
+      "img": "https://i.ibb.co/yRG3W9y/sweater6.png",
+      "smallImg": "https://i.ibb.co/Mp21qWW/sweater-white.png"
+    },
+    {
+      "id": 7,
+      "price": 250000,
+      "img": "https://i.ibb.co/0MzRcWQ/sweater7.png",
+      "smallImg": "https://i.ibb.co/tYh0Wqj/sweater-beige.png"
+    },
+    {
+      "id": 8,
+      "price": 250000,
+      "img": "https://i.ibb.co/WnZTyBL/sweater8.png",
+      "smallImg": "https://i.ibb.co/sJ0FrL6/sweater-lightgreen.png"
+    },
+    {
+      "id": 9,
+      "price": 250000,
+      "img": "https://i.ibb.co/mX37fjg/sweater9.png",
+      "smallImg": "https://i.ibb.co/qd1Xx7J/sweater-maroon.png"
+    },
+    {
+      "id": 10,
+      "price": 250000,
+      "img": "https://i.ibb.co/PGxYfsx/sweater10.png",
+      "smallImg": "https://i.ibb.co/hyK9FXt/sweater-green2.png"
+    },
+    {
+      "id": 11,
+      "price": 250000,
+      "img": "https://i.ibb.co/m8xjnpN/sweater11.png",
+      "smallImg": "https://i.ibb.co/FWrdydS/sweater-blue.png"
+    },
+    {
+      "id": 12,
+      "price": 250000,
+      "img": "https://i.ibb.co/QHQrvZ6/sweater12.png",
+      "smallImg": "https://i.ibb.co/Cb1SSjS/sweater-lightblue.png"
+    }
+  ]
+}
